@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872299278768",
+    "firebase_url": "https://quizstand-86b1d-default-rtdb.firebaseio.com",
+    "project_id": "quizstand-86b1d",
+    "storage_bucket": "quizstand-86b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872299278768:android:f4a1bc847dd63e7c31e675",
+        "android_client_info": {
+          "package_name": "com.moon.quizstand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872299278768-0ra9c1i72r58ftsgim8cqt2urt6265gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moon.quizstand",
+            "certificate_hash": "ab2e547f57cbb4215b27ee18d118f08d3779f506"
+          }
+        },
+        {
+          "client_id": "872299278768-vhdqhhfkfojubqcut4oi74g1d2ik7455.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDokxCjAdxpx9q8RqaRtIsdNlJ10lZPurY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872299278768-vhdqhhfkfojubqcut4oi74g1d2ik7455.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
